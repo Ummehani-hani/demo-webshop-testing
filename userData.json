@@ -1,0 +1,16 @@
+[
+  {
+    "gender": "female",
+    "firstName": "Umm E Hani",
+    "lastName": "Tester",
+    "email": "hanitester234@gmail.com",
+    "password": "Hanitester123"
+  },
+  {
+    "gender": "male",
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "johndoe123@gmail.com",
+    "password": "Test1234"
+  }
+]
